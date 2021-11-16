@@ -3,7 +3,7 @@ import time
 import micropython
 import network
 import esp
-
+#-------------------------
 
 pin2 = machine.Pin(2,machine.Pin.OUT)
 
